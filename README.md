@@ -16,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama12221-star&show_icons=true&theme=tokyonight&locale=en" alt="osama12221-star" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama12221-star&theme=dark" alt="osama12221-star" /></p>
-
